@@ -75,9 +75,11 @@ linker -
 
 <details>
   <summary>Exercises</summary>
+    {
 ``` 
     sadsa
 ```
+    }
 </details>
 
 <details>
