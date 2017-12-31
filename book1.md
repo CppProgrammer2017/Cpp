@@ -25,8 +25,8 @@ int main()
 ```
 1. What is the purpose of the “Hello, World!” program?
 
-The purpose to writing this program is to test the programming environment and to give us a first feel of how we can
-get a computer to do things for us.
+The purpose to writing this program is to test the programming environment and to give us a first feel of how we
+can get a computer to do things for us.
 
 2. Name the four parts of a function.
 
@@ -46,9 +46,9 @@ get a computer to do things for us.
 #### Terms
 
 ```
-// - anything written after the token // on a line is a comment. Comments are ignored by the compiler and written for 
-the benefit of programmers who read the code. Comments are written to describe what the program is intended to do and 
-in general to provide information useful for humans that can’t be directly expressed in code.
+// - anything written after the token // on a line is a comment. Comments are ignored by the compiler and written
+for the benefit of programmers who read the code. Comments are written to describe what the program is intended 
+to do and in general to provide information useful for humans that can’t be directly expressed in code.
 
 executable - 
 main() - 
