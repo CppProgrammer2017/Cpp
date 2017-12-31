@@ -14,7 +14,28 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-```objective-c
+``` c++
+// * The program reads input from user and prints it on the screen. * //
+
+#include "stdafx.h"
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+	cout << "Please enter your first and second names: ";
+	string firstName, secondName;
+	cin >> firstName >> secondName;
+
+	cout << "Hello, " << firstName << " " << secondName << "!\n\n";
+
+  return 0;
+}
+```
+
+``` cpp
 // * The program reads input from user and prints it on the screen. * //
 
 #include "stdafx.h"
