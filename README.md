@@ -14,6 +14,12 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
 ### Installing
 
 A step by step series of examples that tell you have to get a development env running
