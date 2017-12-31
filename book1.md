@@ -72,3 +72,8 @@ linker -
 ```
 
 #### Exercises
+
+<details>
+  <summary>Click to expand</summary>
+  Whatever
+</details>
