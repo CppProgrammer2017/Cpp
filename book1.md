@@ -22,6 +22,7 @@ int main()
 
 #### Review
 
+```
 1. What is the purpose of the “Hello, World!” program?
 2. Name the four parts of a function.
 3. Name a function that must appear in every C++ program.
@@ -33,9 +34,11 @@ int main()
 9. What is the difference between a source file and an object file?
 10. What is an IDE and what does it do for you?
 11. If you understand everything in the textbook, why is it necessary to practice?
+```
 
 #### Terms
 
+```
 // - 2312
 executable - 
 main() - 
@@ -56,5 +59,6 @@ library -
 statement - 
 cout - 
 linker - 
+```
 
 #### Exercises
