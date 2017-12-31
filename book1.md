@@ -45,9 +45,8 @@ can get a computer to do things for us.
 11. If you understand everything in the textbook, why is it necessary to practice?
 ```
 
-#### Terms
-
-```
+<details>
+<summary>Terms</summary>
 // - anything written after the token // on a line is a comment. Comments are ignored by the compiler and written
 for the benefit of programmers who read the code. Comments are written to describe what the program is intended 
 to do and in general to provide information useful for humans that can’t be directly expressed in code.
@@ -71,28 +70,5 @@ library -
 statement - 
 cout - 
 linker - 
-```
 
-<details>
-  <summary>Exercises</summary>
-    {
-``` 
-    sadsa
-```
-    }
 </details>
-
-<details>
-  <summary>Exercises</summary>
-  Whatever
-</details>
-
-[details=super seekrit code block]
-```
-var multiLineCode = "some code that should be spoiled";
-while (true)
-    multilineCode += "some more code, you can't unsee it";
-```
-[/details]
-
-[details=another super seekrit code block]`i = i + 1`[/details]
