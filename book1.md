@@ -4,12 +4,9 @@
 
 #### Book examples
 
-<details>
-  <summary>Example 1</summary>
 
-</details>
 
-    ``` cpp
+``` cpp
 // * The program prints a message on the screen. * //
 
 #include "stdafx.h"
