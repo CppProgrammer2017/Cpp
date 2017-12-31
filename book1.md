@@ -73,9 +73,9 @@ cout -
 linker - 
 ```
 
-#### Exercises
+
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>#### Exercises</summary>
   Whatever
 </details>
