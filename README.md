@@ -15,6 +15,11 @@ Give examples
 ```
 
 ```ruby
+int main(){
+
+  cout << "Hello, World";
+
+}
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
