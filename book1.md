@@ -7,10 +7,36 @@ These instructions will get you a copy of the project up and running on your loc
 #### Book examples
 
 ``` cpp
-Code example
+// * The program reads input from user and prints it on the screen. * //
+
+#include "stdafx.h"
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+	
+
+    return 0;
+}
 ```
 
 #### Drill
+The program reads input from user and prints it on the screen.
+``` cpp
+#include "stdafx.h"
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+	
+
+    return 0;
+}
+```
 
 #### Review
 
