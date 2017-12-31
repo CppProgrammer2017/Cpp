@@ -72,12 +72,14 @@ statement -
 cout - 
 linker - 
 ```
-```
+
 <details>
   <summary>Exercises</summary>
-  Whatever
-</details>
+``` 
+    sadsa
 ```
+</details>
+
 <details>
   <summary>Exercises</summary>
   Whatever
