@@ -15,14 +15,24 @@ Give examples
 ```
 
 ```objective-c
-int main(){
+// * The program reads input from user and prints it on the screen. * //
 
-  cout << "Hello, World";
+#include "stdafx.h"
+#include <iostream>
+#include <string>
 
+using namespace std;
+
+int main()
+{
+	cout << "Please enter your first and second names: ";
+	string firstName, secondName;
+	cin >> firstName >> secondName;
+
+	cout << "Hello, " << firstName << " " << secondName << "!\n\n";
+
+  return 0;
 }
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
 ```
 
 ### Installing
