@@ -2,23 +2,13 @@
 
 ### Chapter 2
 
-#### Book examples
+<details>
+<summary>Book examples</summary>
 
-``` cpp
-// * The program prints a message on the screen. * //
+1. asddassadasd
+2. asddassdadas
 
-#include "stdafx.h"
-#include <iostream>
-
-using namespace std;
-
-int main()
-{
-    cout << "Hello, World!\n";
-
-    return 0;
-}
-```
+</details>
 
 <details>
 <summary>Review</summary>
