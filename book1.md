@@ -87,4 +87,12 @@ linker -
   Whatever
 </details>
 
+[details=super seekrit code block]
+```
+var multiLineCode = "some code that should be spoiled";
+while (true)
+    multilineCode += "some more code, you can't unsee it";
+```
+[/details]
 
+[details=another super seekrit code block]`i = i + 1`[/details]
