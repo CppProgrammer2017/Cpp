@@ -6,6 +6,9 @@
 
 <details>
   <summary>Example 1</summary>
+
+</details>
+
     ``` cpp
 // * The program prints a message on the screen. * //
 
@@ -21,9 +24,6 @@ int main()
     return 0;
 }
 ```
-</details>
-
-
 
 #### Review
 
