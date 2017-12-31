@@ -21,10 +21,9 @@ int main()
     return 0;
 }
 ```
-
-#### Drill
-The program reads input from user and prints it on the screen.
 ``` cpp
+// * The program reads input from user and prints it on the screen. * //
+
 #include "stdafx.h"
 #include <iostream>
 
@@ -37,6 +36,23 @@ int main()
     return 0;
 }
 ```
+``` cpp
+// * The program reads input from user and prints it on the screen. * //
+
+#include "stdafx.h"
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+	
+
+    return 0;
+}
+```
+
+#### Drill
 
 #### Review
 
