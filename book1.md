@@ -36,6 +36,27 @@ int main()
 
 #### Terms
 
+// - 
+executable - 
+main() - 
+<< - 
+function - 
+object code - 
+C++ - 
+header - 
+output - 
+comment - 
+IDE - 
+program - 
+compiler - 
+#include - 
+source code - 
+compile-time error - 
+library - 
+statement - 
+cout - 
+linker - 
+
 #### Exercises
 
 
