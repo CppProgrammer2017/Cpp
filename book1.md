@@ -4,7 +4,9 @@
 
 #### Book examples
 
-``` cpp
+<details>
+  <summary>Example 1</summary>
+    ``` cpp
 // * The program prints a message on the screen. * //
 
 #include "stdafx.h"
@@ -19,6 +21,9 @@ int main()
     return 0;
 }
 ```
+</details>
+
+
 
 #### Review
 
