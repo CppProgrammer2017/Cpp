@@ -5,7 +5,7 @@
 #### Book examples
 
 ``` cpp
-// * The program reads input from user and prints it on the screen. * //
+// * The program prints a message on the screen. * //
 
 #include "stdafx.h"
 #include <iostream>
@@ -14,43 +14,12 @@ using namespace std;
 
 int main()
 {
-	
-
-	return 0;
-}
-```
-----------------------------------------------------------------------------------------------------------------------------------------
-``` cpp
-// * The program reads input from user and prints it on the screen. * //
-
-#include "stdafx.h"
-#include <iostream>
-
-using namespace std;
-
-int main()
-{
-	
+    cout << "Hello, World!\n";
 
     return 0;
 }
 ```
 ----------------------------------------------------------------------------------------------------------------------------------------
-``` cpp
-// * The program reads input from user and prints it on the screen. * //
-
-#include "stdafx.h"
-#include <iostream>
-
-using namespace std;
-
-int main()
-{
-	
-
-    return 0;
-}
-```
 
 #### Drill
 
