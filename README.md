@@ -14,7 +14,7 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-```ruby
+```cpp
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
